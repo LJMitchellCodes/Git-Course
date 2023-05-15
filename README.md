@@ -5,7 +5,7 @@
 3 git commit -m "message for commit"
 4 git push -u origin dev
 
-only use git remote origin 1 time
+only use git add remote origin 1 time
 
 For all changes
 2 git add .
