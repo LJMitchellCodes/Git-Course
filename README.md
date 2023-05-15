@@ -1,6 +1,14 @@
 # Git-Course
-git remote add origin [git hub url]
-git add .
-git status
-git commit -m "message for commit"
-git push -u origin dev
+1 git remote add origin [git hub url]
+2 git add .
+    git status
+3 git commit -m "message for commit"
+4 git push -u origin dev
+
+only use git remote origin 1 time
+
+For all changes
+2 git add .
+    git status
+3 git commit -m "message for commit"
+4 git push -u origin dev
